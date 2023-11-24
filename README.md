@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hyeonwoo Jung, who enjoys challenges and learning</h1>
-<h3 align="center">안녕하세요! 도전과 학습을 즐기는 개발자 정현우 입니다.</h3>
+<h1 align="center">Hi 👋, I'm Hyeonwoo Jung</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blueberrylj&label=Profile%20views&color=0e75b6&style=flat" alt="blueberrylj" /> </p>
 
