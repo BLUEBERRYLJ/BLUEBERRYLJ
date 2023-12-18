@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blueberrylj&label=Profile%20views&color=0e75b6&style=flat" alt="blueberrylj" /> </p>
 
-- 🔭 I’m currently working as **Backend Developer from SMART DOCTOR and Team Mingle**
+- 🔭 I’m currently working as **Backend Developer from HealingPaper(Gangnamunni) and Team Mingle**
 
-- 🌱 I’m currently interested in **Spring, JPA, and Server Architecture**
+- 🌱 I’m currently interested in **Spring, JPA, and DDD Server Architecture**
 
 - 👯 I work towards identifying **hidden issues and areas for improvement**
 
